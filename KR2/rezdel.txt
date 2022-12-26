@@ -1,0 +1,35 @@
+id: 2
+firstName: Kuznecov
+lastName: Sergey!5.0
+avg: 8.98998963423412E14
+fileName: 
+
+------------------------------
+id: 5
+firstName: 1Kozlov
+lastName: Victor
+avg: 3.2
+fileName: 234345465765768
+
+------------------------------
+id: 11
+firstName: Petrov5
+lastName: Roman
+avg: 5.0
+fileName: 756766575452312
+
+------------------------------
+id: 13
+firstName: Bar5anov
+lastName: Victor
+avg: 9.8
+fileName: 3453464571678
+
+------------------------------
+id: 14
+firstName: Vasilev3
+lastName: Victor
+avg: 9.0
+fileName: 2435434546456
+
+------------------------------

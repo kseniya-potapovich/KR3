@@ -1,0 +1,70 @@
+id: 15
+firstName: Govorov
+lastName: Andrey
+avg: 3.57
+fileName: 12324325446546
+
+------------------------------
+id: 4
+firstName: Sidorov
+lastName: Evgeniy
+avg: 110.03
+fileName: 2457867898
+
+------------------------------
+id: 1
+firstName: Dubov
+lastName: Petr
+avg: 7.0
+fileName: 343534645765745
+
+------------------------------
+id: 12
+firstName: Ivanov
+lastName: Petr
+avg: 8.1
+fileName: 423242354345546
+
+------------------------------
+id: 9
+firstName: Ivanov
+lastName: Petr
+avg: 2.3
+fileName: 34354354687769879
+
+------------------------------
+id: 8
+firstName: Rukov
+lastName: Petr
+avg: 1.1
+fileName: 3434543546546
+
+------------------------------
+id: 10
+firstName: Petrov
+lastName: Roman
+avg: 7.0
+fileName: 1232242343545
+
+------------------------------
+id: 3
+firstName: Baranov
+lastName: Victor
+avg: 9.8
+fileName: 3453464575678
+
+------------------------------
+id: 7
+firstName: Kovalev
+lastName: Victor
+avg: 9.6
+fileName: 4654765767865
+
+------------------------------
+id: 6
+firstName: Kozlov
+lastName: Victor
+avg: 3.4
+fileName: 2323453546546
+
+------------------------------
